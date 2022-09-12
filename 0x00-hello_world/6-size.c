@@ -2,7 +2,7 @@
 /**
  * main - Printing out the memories allocated
  *
- * Reurn: compulsory 0
+ * Return: compulsory 0
  *
  */
 int main(void)
