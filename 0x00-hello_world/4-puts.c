@@ -1,10 +1,11 @@
 #include <stdio.h>
+/**
+ * main - Printing something
+ *
+ * Return: Compulsary 0
+ */
 int main(void)
 {
-
-  /* Prints out Something
-   *
-   */
   puts("\"Programming is like building a multilingual puzzle");
   return (0);
 }
